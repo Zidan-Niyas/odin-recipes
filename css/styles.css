@@ -14,10 +14,16 @@ a {
     font-size: x-large;
     text-decoration: none;
     color: rgb(27, 25, 25);
+    background-color:rgb(242, 242, 233);
 }
 
 li {
+    width: 50%;
     margin: 20px 0;
+    list-style: none;
+    border: 2px solid black;
+    padding: 30px;
+    background-color:rgb(242, 242, 233);
 }
 
 a:hover {
