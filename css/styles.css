@@ -1,0 +1,26 @@
+* {
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(42, 23, 23);
+    color:aliceblue;
+    padding: 10px;
+}
+
+a {
+    font-size: x-large;
+    text-decoration: none;
+    color: rgb(27, 25, 25);
+}
+
+li {
+    margin: 20px 0;
+}
+
+a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
